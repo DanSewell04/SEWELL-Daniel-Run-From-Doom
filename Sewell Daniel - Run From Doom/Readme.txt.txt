@@ -8,4 +8,4 @@ Jump is spacebar or Triangle / Y
 To quit the application;
 Hold Alt + tab and then exit the application. 
 
-Note: Problem with scene manager for the retry currently.
+Note: Problem with scene manager for the retry currently and that the build is titled DoomedRun but the project was updated to the latest name - Run From Doom.
